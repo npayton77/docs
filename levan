@@ -1,0 +1,50 @@
+# Privacy Policy for Levan
+
+**Last Updated: January 21, 2026**
+
+## Overview
+
+Levan is a file management application for macOS. We are committed to protecting your privacy and being transparent about our data practices.
+
+## Data Collection
+
+**Levan does not collect, store, or transmit any personal data.**
+
+Specifically, we do not collect:
+- Personal information (name, email, address)
+- Usage analytics or statistics
+- File contents or metadata
+- Location data
+- Device identifiers
+- Crash reports or diagnostics
+
+## Local Data Only
+
+Levan operates entirely on your local device. All file operations, preferences, and settings remain on your Mac and are never transmitted to external servers.
+
+### What Levan Accesses Locally
+
+- **File System**: Levan accesses files and folders on your Mac to provide file management functionality. This access is governed by macOS permissions and sandbox restrictions.
+- **User Preferences**: App settings (such as pinned folders and view preferences) are stored locally using macOS standard storage mechanisms.
+
+## Third-Party Services
+
+Levan does not integrate with any third-party analytics, advertising, or tracking services.
+
+## Children's Privacy
+
+Levan does not collect any data from any users, including children under 13.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected in the "Last Updated" date above.
+
+## Contact
+
+If you have questions about this Privacy Policy, please contact:
+
+**Email**: [nick@paytonsplace.net]
+
+---
+
+© 2026 Payton's Place. All rights reserved.
